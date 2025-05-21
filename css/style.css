@@ -9723,7 +9723,7 @@ h6,
 
 .testimonial-carousel .owl-dot {
   position: relative;
-  display: inline-block;
+  display: block;
   margin: 0 5px;
   width: 20px;
   height: 20px;
