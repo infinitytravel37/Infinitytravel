@@ -9719,6 +9719,7 @@ h6,
 .testimonial-carousel .owl-dots {
   margin-top: 5px;
   text-align: center;
+  display: block
 }
 
 .testimonial-carousel .owl-dot {
@@ -9734,10 +9735,12 @@ h6,
 .testimonial-carousel .owl-dot.active {
   width: 40px;
   background: #ff69b4;
+    display: block
 }
 
 .testimonial-carousel .owl-item.center .testimonial-text {
   box-shadow: 0 0 30px #000000;
+    display: block
 }
 
 .blog-item {
